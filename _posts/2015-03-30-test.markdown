@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test Post"
+date:   2015-03-30
+tags: [test]
+---
+
+This is a **test**.
