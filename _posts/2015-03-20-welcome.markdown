@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome to Xena's Blog!"
+date:   2015-03-20 13:53:49
+tags: [meta]
+---
+
+This is a simple blog post, and it will showcase a lot of possibilities for post formatting!
+
+You can do all kinds of text formatting like *italics* and **bold**, but you can also do much more than that!
+
+- You
+- can
+- do
+- lists!
+
+> Here's a quote!
+
+You can also do really cool things like add [links](http://www.harrisongoldstein.me)!

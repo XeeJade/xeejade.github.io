@@ -1,0 +1,14 @@
+# Site settings
+title: Xena's Blog
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This is Xena Itzkowitz's blog about whatever she wants!
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: xeejade
+github_username:  xeejade
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
